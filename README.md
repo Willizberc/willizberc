@@ -1,4 +1,4 @@
-![Profile Banner](image1)
+
 
 <h1 align="center">Hi there, I'm <span style="color:#00aaff">William Saah Nkansah Odoom</span> 👋</h1>
 <h3 align="center">Full-Stack Developer • Data Engineer • Mobile App Engineer • Software Tester</h3>
