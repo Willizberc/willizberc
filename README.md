@@ -24,7 +24,7 @@ I'm a passionate and versatile developer who loves building seamless digital sol
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=python,django,react,reactnative,flutter,typescript,nodejs,express,nextjs,mongodb,postgres,firebase,supabase&perline=8" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,nestjs,flutter,typescript,nodejs,express,nextjs,mongodb,postgres,firebase,supabase&perline=8" alt="Skills" />
   
 </div>
 
