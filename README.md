@@ -24,13 +24,13 @@ I'm a passionate and versatile developer who loves building seamless digital sol
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=python,django,react,nestjs,flutter,typescript,nodejs,express,nextjs,mongodb,postgres,firebase,supabase&perline=8" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,nestjs,flutter,typescript,nodejs,express,nextjs,threejs,mongodb,postgres,firebase,supabase&perline=8" alt="Skills" />
   
 </div>
 
 **Languages & Frameworks:**  
 Python • TypeScript • JavaScript • Dart  
-Django • React • React Native • Flutter • Node.js • Next.js • Express.js
+Django • React • React Native • Flutter • Node.js • Next.js • Express.js • Three.js • Nest.js
 
 **Databases & Cloud:**  
 MongoDB • PostgreSQL • Firebase • Supabase • SQL
