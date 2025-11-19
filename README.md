@@ -20,6 +20,30 @@ I focus on **end-to-end development**, combining strong technical depth with des
 
 
 
+## 💼 Featured Projects
+
+### 🔹 E-Commerce Platform
+**Tech Stack:** Django • React • PostgreSQL • Stripe API  
+A full-featured e-commerce platform with inventory management, payment processing, and admin dashboard. Built with Django REST Framework for the backend and React for a responsive frontend.
+
+### 🔹 Real-Time Chat Application
+**Tech Stack:** Node.js • Express.js • Socket.io • MongoDB • React  
+A scalable real-time messaging application supporting group chats, file sharing, and user presence indicators. Deployed with WebSocket connections for instant communication.
+
+### 🔹 Mobile Fitness Tracker
+**Tech Stack:** Flutter • Dart • Firebase • Google Fit API  
+Cross-platform mobile app for tracking workouts, nutrition, and health metrics. Features real-time data synchronization and personalized workout recommendations.
+
+### 🔹 Data Pipeline Automation
+**Tech Stack:** Python • Apache Airflow • PostgreSQL • Docker  
+Automated ETL pipeline for processing and transforming large datasets. Includes data validation, error handling, and scheduled batch processing workflows.
+
+### 🔹 Task Management System
+**Tech Stack:** Next.js • TypeScript • Supabase • Tailwind CSS  
+Modern task management application with drag-and-drop functionality, real-time collaboration, and customizable workflows. Built with server-side rendering for optimal performance.
+
+---
+
 ## 🛠 Tech Stack
 
 <div align="center">
