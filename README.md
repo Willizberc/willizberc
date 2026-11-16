@@ -269,12 +269,6 @@ Created multiple CMS-driven client websites and custom plugins for businesses an
 | 🧾 **KNK Palvelut** | Employee Management | [Live Link](https://app.knkpalvelut.fi/) |
 | 💬 **Bulk Messaging** | Web App | Coming Soon |
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Willizberc&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats for Willizberc" />
-</p>
-
 ### 💬 Random Dev Quote
 
 <p align="center">
