@@ -10,15 +10,11 @@
   </a>
 </p>
 
-
-
 ## 🌟 About Me
 
-I'm a passionate and versatile developer who loves building seamless digital solutions across web, mobile, and data platforms. From architecting robust backends to crafting intuitive mobile apps and e[...]
+I'm a passionate and versatile developer who loves building seamless digital solutions across web, mobile, and data platforms. From architecting robust backends to crafting intuitive mobile apps and enriching data systems, I enjoy turning complex problems into clean, scalable products.
 
-I focus on **end-to-end development**, combining strong technical depth with design thinking and AI integration to deliver products that feel both smart and human.
-
-
+I focus on end-to-end development, combining strong technical depth with design thinking and AI integration to deliver products that feel smart, reliable, and human-centered.
 
 ## 🛠 Tech Stack
 
@@ -26,31 +22,32 @@ I focus on **end-to-end development**, combining strong technical depth with des
   <img src="https://skillicons.dev/icons?i=python,django,react,nestjs,flutter,typescript,nodejs,express,nextjs,dart,threejs,mongodb,postgres,postman,firebase,supabase&perline=8" alt="Skills" />
 </div>
 
-### 💻 Programming Languages
+### 💻 Core Languages
 Python • TypeScript • JavaScript • Dart • SQL • PHP • Swift • HTML5 • CSS • Bash • Shell
 
-### 🌐 Web Technologies
-React • Next.js • TanStack Start • TanStack Query • NestJS • Node.js • Express.js • Fastify • Payload CMS • Three.js • Leaflet • Tailwind CSS • shadcn/ui • Radix UI • Framer Motion • Zustand • Recharts • Socket.IO • Vite • HTML5 • React Hook Form • Zod • i18next • next-intl • PWA & Web Push
+### 🌐 Frontend & Web
+React • Next.js • Vite • TanStack Start • TanStack Query • React Hook Form • Zod • Tailwind CSS • shadcn/ui • Radix UI • Framer Motion • Zustand • Recharts • Socket.IO • Leaflet • Three.js • HTML5 • i18next • next-intl • PWA • Web Push
+
+### ⚙️ Backend & APIs
+Node.js • Express.js • Fastify • NestJS • REST • OpenAPI • JWT Auth • Passkeys • WebAuthn • WebSockets • Microservices • Payload CMS
 
 ### 📱 Mobile & Desktop
-React Native • Expo • SwiftUI • Xcode • Android • Android TV • Flutter • Electron • PixiJS • Stripe
+React Native • Expo • Flutter • SwiftUI • Xcode • Android • Android TV • Electron • PixiJS • Stripe
 
-### 🗄️ Databases & Backend
-PostgreSQL • Supabase • Row Level Security • PGlite • MySQL • MariaDB • Prisma • Drizzle ORM • Kysely • libSQL • REST & OpenAPI • Microservices • WebSockets • Passkeys & WebAuthn • JWT Auth • MongoDB • Dataverse
+### 🗄️ Data & Databases
+PostgreSQL • MySQL • MariaDB • MongoDB • Supabase • Row Level Security • PGlite • Prisma • Drizzle ORM • Kysely • libSQL • Dataverse • Data Modeling • ETL Pipelines
 
 ### ☁️ Cloud, DevOps & Platforms
-Azure • Azure Functions • Azure DevOps • Azure Foundry • AWS • AWS RDS • AWS SNS • AWS ECS • AWS S3 • AWS Cognito • Vercel • Cloudflare • GitHub Actions • Docker • Nginx • PM2 • Linux • Monorepos • pnpm • Git • GitHub
+Azure • Azure Functions • Azure DevOps • Azure Foundry • AWS • AWS RDS • AWS SNS • AWS ECS • AWS S3 • AWS Cognito • Vercel • Cloudflare • Docker • Nginx • PM2 • Linux • GitHub Actions • Git • GitHub • pnpm • Monorepos
 
-### 🧪 Testing & Code Quality
+### 🧪 Testing & Quality
 Vitest • Playwright • Jest • Testing Library • Testcontainers • Supertest • LLM Evals • axe-core • ESLint • Prettier • CI/CD
 
 ### 🤖 AI, Agents & Automation
-OpenAI • Claude • Google Gemini • Vercel AI SDK • ElevenLabs • Speech Recognition • AI Agents • GitHub Copilot • Microsoft Copilot • Azure OpenAI • Power Platform • Power Apps • Power Automate • Document Intelligence • Microsoft Graph
+OpenAI • Claude • Google Gemini • Azure OpenAI • Vercel AI SDK • ElevenLabs • Speech Recognition • AI Agents • GitHub Copilot • Microsoft Copilot • Power Platform • Power Apps • Power Automate • Document Intelligence • Microsoft Graph
 
 ### 🧰 Data Engineering & Other
-Python • Django • TypeScript • JavaScript • Dart • Firebase • SQL • ETL Pipelines • Data Modeling • Database Design • Data Analysis • Software Testing • Agile Methodologies
-
-
+Django • Firebase • Database Design • Data Analysis • Software Testing • Agile Methodologies
 
 ## 💼 Featured Projects
 
@@ -58,7 +55,7 @@ Python • Django • TypeScript • JavaScript • Dart • Firebase • SQL �
 
 **Role:** Lead Mobile Engineer & AI Integrator | **Stack:** React Native, Firebase, Gemini 1.5 API, TypeScript
 
-Pexfin empowers users to gain clarity and control over their personal finances through AI-powered forecasting, budgeting, and smart insights. It predicts future income and expenses, helping users plan[...]
+Pexfin empowers users to gain clarity and control over their personal finances through AI-powered forecasting, budgeting, and smart insights. It predicts future income and expenses, helping users plan better and make informed financial decisions.
 
 **Highlights:**
 
@@ -69,8 +66,6 @@ Pexfin empowers users to gain clarity and control over their personal finances t
 * Firebase authentication and secure data storage
 
 🚧 *In private alpha — refining ML accuracy and conversational flows before public launch.*
-
-
 
 ### 🚚 Ziplink Express — Logistics & Parcel Management Platform
 
@@ -89,8 +84,6 @@ A full-scale logistics management system connecting vendors, riders, coordinator
 
 ✅ *Live in production — managing day-to-day delivery operations.*
 
-
-
 ### 🧾 KNK Palvelut — Employee Time Tracking & Payroll System
 
 **Role:** Lead Full-Stack Engineer | **Stack:** React + TypeScript, Tailwind CSS, NestJS, Prisma ORM, PostgreSQL
@@ -106,8 +99,6 @@ Built for a Finnish cleaning company, KNK Palvelut automates attendance, payroll
 * Role-specific dashboards and weekly activity reports
 
 ✅ *Live in production*
-
-
 
 ### 💬 Bulk Messaging — SMS & Email Campaign Management System
 
@@ -125,8 +116,6 @@ An internal communication system for managing large-scale SMS and email campaign
 
 ✅ *Coming Soooooon*
 
-
-
 ### 🧱 CMS & WordPress Projects
 
 **Role:** Web Developer | **Stack:** WordPress, PHP, JavaScript, Elementor
@@ -139,35 +128,23 @@ Created multiple CMS-driven client websites and custom plugins for businesses an
 * API integrations (payments, booking, chat)
 * SEO optimization and site performance tuning
 
-
-
-
 ## 🔗 Project Links
 
-| Project                             | Type                | Live Link                  |
-| ----------------------------------- | ------------------- | --------------------------------- |
-| 💰 **Pexfin**                       | Mobile App          | [Coming Soon]()                   |
-| 🚚 **Ziplink Express**              | Logistics Platform  | [Live Link](https://ziplinkexpress.com/) |
-| 🧾 **KNK Palvelut**                 | Employee Management | [Live Link](https://app.knkpalvelut.fi/) |
-| 💬 **Bulk Messaging**               | Web App             | [Coming Soon]()                                 |
-
-
-
-
-
+| Project | Type | Live Link |
+| --- | --- | --- |
+| 💰 **Pexfin** | Mobile App | [Coming Soon]() |
+| 🚚 **Ziplink Express** | Logistics Platform | [Live Link](https://ziplinkexpress.com/) |
+| 🧾 **KNK Palvelut** | Employee Management | [Live Link](https://app.knkpalvelut.fi/) |
+| 💬 **Bulk Messaging** | Web App | [Coming Soon]() |
 
 ## 🚀 Fun Fact
 
-I love exploring new tech stacks and frameworks just for the thrill of building something unique over the weekend! Whether it’s a new mobile toolkit or an experimental backend, I’m always up [...]
-
-
+I love exploring new tech stacks and frameworks just for the thrill of building something unique over the weekend. Whether it’s a new mobile toolkit or an experimental backend, I’m always up for a challenge.
 
 ## 📫 Connect With Me
 
 * 🌍 [LinkedIn](https://www.linkedin.com/in/william-odoom-600949220/)
 * 📧 [willizberc255@gmail.com](mailto:willizberc255@gmail.com)
-
-
 
 <details>
   <summary>✨ More About Me</summary>
@@ -178,5 +155,3 @@ I love exploring new tech stacks and frameworks just for the thrill of building 
     <li>🌍 Based in Ghana, building solutions for a global audience</li>
   </ul>
 </details>
-
-
