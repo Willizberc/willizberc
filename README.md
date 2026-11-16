@@ -14,7 +14,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate and versatile developer who loves building seamless digital solutions across web, mobile, and data platforms. From architecting robust backends to crafting intuitive mobile apps and engineering powerful data pipelines, I thrive on solving complex problems with clean, modern code.
+I'm a passionate and versatile developer who loves building seamless digital solutions across web, mobile, and data platforms. From architecting robust backends to crafting intuitive mobile apps and e[...]
 
 I focus on **end-to-end development**, combining strong technical depth with design thinking and AI integration to deliver products that feel both smart and human.
 
@@ -26,18 +26,29 @@ I focus on **end-to-end development**, combining strong technical depth with des
   <img src="https://skillicons.dev/icons?i=python,django,react,nestjs,flutter,typescript,nodejs,express,nextjs,dart,threejs,mongodb,postgres,postman,firebase,supabase&perline=8" alt="Skills" />
 </div>
 
-**Languages & Frameworks:**
-Python • TypeScript • JavaScript • Dart
-Django • React • React Native • Flutter • Node.js • Next.js • Express.js • Three.js • Nest.js
+### 💻 Programming Languages
+Python • TypeScript • JavaScript • Dart • SQL • PHP • Swift • HTML5 • CSS • Bash • Shell
 
-**Databases & Cloud:**
-PostgreSQL • MongoDB • Firebase • Supabase • SQL
+### 🌐 Web Technologies
+React • Next.js • TanStack Start • TanStack Query • NestJS • Node.js • Express.js • Fastify • Payload CMS • Three.js • Leaflet • Tailwind CSS • shadcn/ui • Radix UI • Framer Motion • Zustand • Recharts • Socket.IO • Vite • HTML5 • React Hook Form • Zod • i18next • next-intl • PWA & Web Push
 
-**Data Engineering:**
-ETL Pipelines • Data Modeling • Database Design • Data Analysis
+### 📱 Mobile & Desktop
+React Native • Expo • SwiftUI • Xcode • Android • Android TV • Flutter • Electron • PixiJS • Stripe
 
-**Other:**
-Software Testing • RESTful APIs • CI/CD • Agile Methodologies
+### 🗄️ Databases & Backend
+PostgreSQL • Supabase • Row Level Security • PGlite • MySQL • MariaDB • Prisma • Drizzle ORM • Kysely • libSQL • REST & OpenAPI • Microservices • WebSockets • Passkeys & WebAuthn • JWT Auth • MongoDB • Dataverse
+
+### ☁️ Cloud, DevOps & Platforms
+Azure • Azure Functions • Azure DevOps • Azure Foundry • AWS • AWS RDS • AWS SNS • AWS ECS • AWS S3 • AWS Cognito • Vercel • Cloudflare • GitHub Actions • Docker • Nginx • PM2 • Linux • Monorepos • pnpm • Git • GitHub
+
+### 🧪 Testing & Code Quality
+Vitest • Playwright • Jest • Testing Library • Testcontainers • Supertest • LLM Evals • axe-core • ESLint • Prettier • CI/CD
+
+### 🤖 AI, Agents & Automation
+OpenAI • Claude • Google Gemini • Vercel AI SDK • ElevenLabs • Speech Recognition • AI Agents • GitHub Copilot • Microsoft Copilot • Azure OpenAI • Power Platform • Power Apps • Power Automate • Document Intelligence • Microsoft Graph
+
+### 🧰 Data Engineering & Other
+Python • Django • TypeScript • JavaScript • Dart • Firebase • SQL • ETL Pipelines • Data Modeling • Database Design • Data Analysis • Software Testing • Agile Methodologies
 
 
 
@@ -47,7 +58,7 @@ Software Testing • RESTful APIs • CI/CD • Agile Methodologies
 
 **Role:** Lead Mobile Engineer & AI Integrator | **Stack:** React Native, Firebase, Gemini 1.5 API, TypeScript
 
-Pexfin empowers users to gain clarity and control over their personal finances through AI-powered forecasting, budgeting, and smart insights. It predicts future income and expenses, helping users plan and act before financial issues arise.
+Pexfin empowers users to gain clarity and control over their personal finances through AI-powered forecasting, budgeting, and smart insights. It predicts future income and expenses, helping users plan[...]
 
 **Highlights:**
 
@@ -147,7 +158,7 @@ Created multiple CMS-driven client websites and custom plugins for businesses an
 
 ## 🚀 Fun Fact
 
-I love exploring new tech stacks and frameworks just for the thrill of building something unique over the weekend! Whether it’s a new mobile toolkit or an experimental backend, I’m always up for a coding adventure.
+I love exploring new tech stacks and frameworks just for the thrill of building something unique over the weekend! Whether it’s a new mobile toolkit or an experimental backend, I’m always up [...]
 
 
 
@@ -167,4 +178,5 @@ I love exploring new tech stacks and frameworks just for the thrill of building 
     <li>🌍 Based in Ghana, building solutions for a global audience</li>
   </ul>
 </details>
+
 
