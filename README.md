@@ -275,34 +275,10 @@ Created multiple CMS-driven client websites and custom plugins for businesses an
   <img src="https://github-readme-stats.vercel.app/api?username=Willizberc&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats for Willizberc" />
 </p>
 
-### ⏰ Commits (UTC +0.00)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-time?username=Willizberc&theme=tokyonight&utcOffset=0" alt="Commits by time in UTC +0.00" />
-</p>
-
-### 🧩 Top Languages by Repo
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Willizberc&theme=tokyonight" alt="Top languages by repository" />
-</p>
-
-### 💻 Top Languages by Commit
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Willizberc&theme=tokyonight" alt="Top languages by commits" />
-</p>
-
 ### 💬 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Willizberc&theme=tokyo-night&hide_border=true" alt="GitHub contribution graph for Willizberc" />
 </p>
 
 ## 🚀 Fun Fact
